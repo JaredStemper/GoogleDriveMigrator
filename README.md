@@ -10,4 +10,4 @@ The full details are in the .ipynb file, but note that there are 3 things that m
 3. \[optionally\] add any folders you want to skip to the "skipFolderList".
 
 # Thanks
-This script was mostly adapted from the amazing work by [wenkesj's](https://stackoverflow.com/users/9252356/wenkesj) in [this StackOverflow answer](https://stackoverflow.com/questions/48376580/google-colab-how-to-read-data-from-my-google-drive).
+This script was mostly adapted from the amazing work by [wenkesj](https://stackoverflow.com/users/9252356/wenkesj) in [this StackOverflow answer](https://stackoverflow.com/questions/48376580/google-colab-how-to-read-data-from-my-google-drive).
